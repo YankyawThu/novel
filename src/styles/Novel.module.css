@@ -1,0 +1,19 @@
+.paragraph{
+    font-family: Nunito;
+    /* font-size: 30px; */
+    font-weight: 800;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+    /* margin-top: 3rem; */
+}
+
+.header{
+    font-family: Nunito;
+    /* font-size: 50px; */
+    font-weight: 900;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+    /* margin-top: 3rem; */
+}

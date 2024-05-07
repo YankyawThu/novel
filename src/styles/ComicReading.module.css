@@ -1,0 +1,27 @@
+.breadcrumb{
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+.breakLine{
+    background: #AFCEE7;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+@media screen and (max-width: 600px) {
+    .breadcrumb{
+        font-size: 10px;
+        line-height: 16px;
+        letter-spacing: 0;
+        text-align: left;
+    }
+    
+    .breakLine{
+        background: #AFCEE7;
+        margin-top: 1.5rem;
+        margin-bottom: 0;
+    }
+}

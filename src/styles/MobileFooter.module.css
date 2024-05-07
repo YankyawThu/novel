@@ -1,0 +1,38 @@
+.footerIconBg {
+    background: #E5FAFF;
+    padding: 5px;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    margin: 0 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.breakLine {
+    border: 0.5px solid #39556b;
+    margin: 0 1.25rem;
+}
+
+.footerBtn {
+    background: #E5FAFF;
+    color: #173F5F;
+    padding: 5px 10px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.footerLink {
+    color: #FCFCFC;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.footerCpr {
+    font-size: 11px;
+    color: #FCFCFC;
+    text-align: center;
+}

@@ -1,0 +1,85 @@
+{
+    "books" : [
+        {
+            "id": 1,
+            "title": "Battlefield Mind",
+            "author": "Joyce Meyer",
+            "img": "/img/comics/book1.png",
+            "type": "city",
+            "area": "china",
+            "status": "complete",
+            "vip" : "free"
+        },
+        {
+            "id": 2,
+            "title": "Battlefield Mind",
+            "author": "Joyce Meyer",
+            "img": "/img/comics/book2.png",
+            "type": "city",
+            "area": "china",
+            "status": "complete",
+            "vip" : "free"
+        },
+        {
+            "id": 3,
+            "title": "Battlefield Mind",
+            "author": "Joyce Meyer",
+            "img": "/img/comics/book3.png",
+            "type": "city",
+            "area": "china",
+            "status": "complete",
+            "vip" : "free"
+        },
+        {
+            "id": 4,
+            "title": "Battlefield Mind",
+            "author": "Joyce Meyer",
+            "img": "/img/comics/book4.png",
+            "type": "city",
+            "area": "china",
+            "status": "complete",
+            "vip" : "free"
+        },
+        {
+            "id": 5,
+            "title": "Battlefield Mind",
+            "author": "Joyce Meyer",
+            "img": "/img/comics/book5.png",
+            "type": "city",
+            "area": "china",
+            "status": "complete",
+            "vip" : "free"
+        },
+        {
+            "id": 6,
+            "title": "Battlefield Mind",
+            "author": "Joyce Meyer",
+            "img": "/img/comics/book6.png",
+            "type": "city",
+            "area": "china",
+            "status": "complete",
+            "vip" : "free"
+        },
+        {
+            "id": 7,
+            "title": "Battlefield Mind",
+            "author": "Joyce Meyer",
+            "img": "/img/comics/book7.png",
+            "type": "city",
+            "area": "china",
+            "status": "complete",
+            "vip" : "free"
+        },
+        {
+            "id": 8,
+            "title": "Battlefield Mind",
+            "author": "Joyce Meyer",
+            "img": "/img/comics/book8.png",
+            "type": "city",
+            "area": "china",
+            "status": "complete",
+            "vip" : "free"
+        }
+    
+    ]
+}

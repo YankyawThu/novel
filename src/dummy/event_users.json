@@ -1,0 +1,94 @@
+{
+    "users": [
+        {
+            "icon": "/user.png",
+            "name": "Nick Andrews",
+            "email": "nick@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Nujabes",
+            "email": "nujabes@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Jon",
+            "email": "jon@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Kevin",
+            "email": "kevin@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Nick Andrews",
+            "email": "nick@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Nujabes",
+            "email": "nujabes@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Jon",
+            "email": "jon@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Kevin",
+            "email": "kevin@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Nick Andrews",
+            "email": "nick@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Nujabes",
+            "email": "nujabes@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Jon",
+            "email": "jon@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Kevin",
+            "email": "kevin@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Nujabes",
+            "email": "nujabes@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Jon",
+            "email": "jon@gmail.com",
+            "diamonds": 4800
+        },
+        {
+            "icon": "/user.png",
+            "name": "Kevin",
+            "email": "kevin@gmail.com",
+            "diamonds": 4800
+        }
+    ]
+}

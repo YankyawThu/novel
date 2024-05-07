@@ -1,0 +1,39 @@
+{
+    "sideTab" : [
+        {
+            "name" : "profile",
+            "value": "profile",
+            "icon" : "/icon/profile-user.svg"
+        },
+        {
+            "name" : "events",
+            "value": "events",
+            "icon" : "/icon/event.svg"
+        },
+        {
+            "name" : "reading-list",
+            "value": "reading-list",
+            "icon" : "/icon/reading-list.svg"
+        },
+        {
+            "name" : "favorites",
+            "value": "favorites",
+            "icon" : "/icon/favorite.svg"
+        },
+        {
+            "name" : "notifications",
+            "value": "notifications",
+            "icon" : "/icon/notification.svg"
+        },
+        {
+            "name" : "payment-history",
+            "value": "payment-history",
+            "icon" : "/icon/payment-history.svg"
+        },
+        {
+            "name" : "change-password",
+            "value": "change-password",
+            "icon" : "/icon/change-password.svg"
+        }
+    ]
+}

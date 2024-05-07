@@ -1,0 +1,89 @@
+.selected{
+    color: #999999;
+}
+
+.selectedCategory{
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    background-color: #005599;
+    border-radius: 2rem;
+    display: inline-flex;
+    padding: 0.5rem 1rem;
+    align-items: center;
+}
+
+.breakLine{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.categoryItem{
+    color: #333333;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+.bookList{
+    margin-top: 2rem;
+}
+
+.imageFix{
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(1.5px);
+    width: 100%;
+    height: 34px;
+}
+
+.bookImage{
+    /* padding-right: 0.2rem; */
+    z-index: 10;
+    padding: 0px;
+}
+
+.bookAuthor{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 1.3285621404647827px;
+    color: #8F8F8F;
+
+}
+
+.bookTitle{
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1.3285621404647827px;
+    color: #173F5F;
+
+}
+
+.bookType{
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #FCFCFC;
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 600px) {
+    .breakLine{
+        background: #AFCEE7;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .selectedCategory{
+        padding: 0.2rem 0.5rem;
+    }
+
+    .categoryItem{
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+}

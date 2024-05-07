@@ -1,0 +1,14 @@
+
+.authPlaceholder::placeholder {
+    color: #173F5F;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+}
+
+.breadcrumb{
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}

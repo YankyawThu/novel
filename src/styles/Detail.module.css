@@ -1,0 +1,148 @@
+.breakLine{
+    background: #AFCEE7;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.header{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.desc{
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.date{
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 14px;
+    margin-top: 4px;
+}
+
+.recommandBookHeader{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.recommandDesc{
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    margin-bottom: 10px;
+
+}
+
+.recommandUpdate{
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #999999;
+}
+
+.recommandUpdateEpisode{
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #E1524C;
+}
+
+.breadcrumb{
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #ffffff;
+}
+
+.bookDetailParent{
+    background: rgba(255, 255, 255, 0.86);
+    border-radius: 12px;
+}
+
+.scrollbar{
+    overflow: auto;
+}
+
+.bookDetailCover {
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bookDetailCoverBlur{
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.4);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+}
+
+.urlShare{
+    animation: fadeOut 3s ease-in-out;
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .header{
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .desc{
+        font-size: 14px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .bookDetailCover {
+        height: 520px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .bookDetailCoverBlur{
+        height: 520px;
+        background-color: rgba(255, 255, 255, 0.4);
+        -webkit-backdrop-filter: blur(16px);
+        backdrop-filter: blur(16px);
+    }
+
+    .date{
+        font-size: 10px;
+        font-style: italic;
+        font-weight: 500;
+        line-height: 14px;
+        margin-top: 2px;
+    }
+}
